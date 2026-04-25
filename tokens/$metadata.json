@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "Primitive - Global",
+    "Primitive - Carentan",
+    "Primitive - Railyard",
+    "Semantic - Carentan",
+    "Semantic - Railyard",
+    "Component - Carentan",
+    "Component - Railyard"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "rd-primitive": {
+    "color": {
+      "blueviolet": {
+        "100": {
+          "$type": "color",
+          "$value": "#f2eafd",
+          "$description": "WCAG 2.x (relative luminance) contrast is 1.16:1 against background #ffffff"
+        },
+        "200": {
+          "$type": "color",
+          "$value": "#e0cdfa",
+          "$description": "WCAG 2.x (relative luminance) contrast is 1.47:1 against background #ffffff"
+        },
+        "300": {
+          "$type": "color",
+          "$value": "#cdaff7",
+          "$description": "WCAG 2.x (relative luminance) contrast is 1.9:1 against background #ffffff"
+        },
+        "400": {
+          "$type": "color",
+          "$value": "#ba90f4",
+          "$description": "WCAG 2.x (relative luminance) contrast is 2.49:1 against background #ffffff"
+        },
+        "500": {
+          "$type": "color",
+          "$value": "#a772f1",
+          "$description": "WCAG 2.x (relative luminance) contrast is 3.32:1 against background #ffffff"
+        },
+        "600": {
+          "$type": "color",
+          "$value": "#9250ee",
+          "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.54:1 against background #ffffff"
+        },
+        "700": {
+          "$type": "color",
+          "$value": "#7934db",
+          "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.29:1 against background #ffffff"
+        },
+        "800": {
+          "$type": "color",
+          "$value": "#5f29ac",
+          "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 8.72:1 against background #ffffff"
+        },
+        "900": {
+          "$type": "color",
+          "$value": "#471e80",
+          "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
+        },
+        "1000": {
+          "$type": "color",
+          "$value": "#2e1352",
+          "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 15.72:1 against background #ffffff"
+        }
+      }
+    },
+    "font": {
+      "family": {
+        "spacemono": {
+          "$type": "fontFamilies",
+          "$value": "Space Mono"
+        }
+      }
+    },
+    "border-radius": {
+      "0": {
+        "$type": "borderRadius",
+        "$value": "0"
+      }
+    }
+  }
+}

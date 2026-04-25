@@ -1,0 +1,28 @@
+[
+    {
+      "id": "carentan",
+      "name": "Carentan",
+      "selectedTokenSets": {
+        "Primitive - Global": "enabled",
+        "Primitive - Carentan": "enabled",
+        "Primitive - Railyard": "disabled",
+        "Semantic - Carentan": "enabled",
+        "Semantic - Railyard": "disabled",
+        "Component - Carentan": "enabled",
+        "Component - Railyard": "disabled"
+      }
+    },
+    {
+      "id": "railyard",
+      "name": "Railyard",
+      "selectedTokenSets": {
+        "Primitive - Global": "enabled",
+        "Primitive - Carentan": "disabled",
+        "Primitive - Railyard": "enabled",
+        "Semantic - Carentan": "disabled",
+        "Semantic - Railyard": "enabled",
+        "Component - Carentan": "disabled",
+        "Component - Railyard": "enabled"
+      }
+    }
+  ]
