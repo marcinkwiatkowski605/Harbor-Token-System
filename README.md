@@ -1,4 +1,4 @@
-# Harbor Design System
+# Harbor Token System
 
 A demonstration of a multi-brand design token system. Two brands, one architecture, one source of truth.
 
