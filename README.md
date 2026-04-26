@@ -28,10 +28,6 @@ sd.config.js               Style Dictionary configuration
 tokens.json                Tokens Studio GitHub sync backup
 ```
 
-## Status
-
-Working. Not production. Built as a learning project to test the full pipeline from Figma to code.
-
 ## Tech stack
 
 - **Tokens Studio** for Figma — token authoring
