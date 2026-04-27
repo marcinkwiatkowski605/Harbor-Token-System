@@ -217,7 +217,7 @@
   --carentan-cr-component-button-spacing-inline-lg: 16px;
   --carentan-cr-component-button-spacing-inline-md: 16px;
   --carentan-cr-component-button-spacing-inline-sm: 12px;
-  --carentan-cr-component-button-spacing-gap: 16px;
+  --carentan-cr-component-button-spacing-gap: 8px;
   --carentan-cr-component-input-border-radius: 8px;
   --carentan-cr-component-input-opacity-disabled: 0.5;
   --carentan-cr-component-input-color-bg: #ffffff;
@@ -231,7 +231,7 @@
   --carentan-cr-component-input-icon-sizing-square: 20px;
   --carentan-cr-component-input-sizing-border: 1px;
   --carentan-cr-component-input-spacing-inline: 16px;
-  --carentan-cr-component-input-spacing-gap: 16px;
+  --carentan-cr-component-input-spacing-gap: 8px;
   --carentan-cr-component-select-sizing-height: 48px;
   --carentan-cr-component-select-icon-sizing-square: 20px;
   --carentan-cr-component-select-color-bg: #ffffff;
@@ -246,7 +246,7 @@
   --carentan-cr-component-select-opacity-disabled: 0.5;
   --carentan-cr-component-select-spacing-inline-start: 16px;
   --carentan-cr-component-select-spacing-inline-end: 16px;
-  --carentan-cr-component-select-spacing-gap: 16px;
+  --carentan-cr-component-select-spacing-gap: 8px;
   --carentan-cr-component-textarea-color-bg: #ffffff;
   --carentan-cr-component-textarea-color-border-default: #8c8f97;
   --carentan-cr-component-textarea-color-border-active: #6b6e76;
@@ -263,10 +263,14 @@
   --carentan-cr-component-icon-button-sizing-square-md: 40px;
   --carentan-cr-component-icon-button-sizing-square-sm: 32px;
   --carentan-cr-component-icon-button-icon-sizing-square: 20px;
+  --carentan-cr-component-icon-button-color-bg-default: #ffffff;
   --carentan-cr-component-icon-button-color-bg-hover: #bf0052;
   --carentan-cr-component-icon-button-color-bg-active: #970041;
   --carentan-cr-component-icon-button-color-bg-selected: #970041;
-  --carentan-cr-component-icon-button-color-icon: #6b6e76;
+  --carentan-cr-component-icon-button-color-icon-default: #6b6e76;
+  --carentan-cr-component-icon-button-color-icon-active: #ffe8f2;
+  --carentan-cr-component-icon-button-color-icon-hover: #ffe8f2;
+  --carentan-cr-component-icon-button-color-icon-selected: #ffe8f2;
   --carentan-cr-component-icon-button-border-radius-lg: 8px;
   --carentan-cr-component-icon-button-border-radius-md: 4px;
   --carentan-cr-component-icon-button-border-radius-sm: 2px;

@@ -89,7 +89,7 @@
       },
       "spacing-gap": {
         "$type": "spacing",
-        "$value": "{global.space.16}"
+        "$value": "{global.space.8}"
       }
     },
     "input": {
@@ -157,7 +157,7 @@
       },
       "spacing-gap": {
         "$type": "spacing",
-        "$value": "{global.space.16}"
+        "$value": "{global.space.8}"
       }
     },
     "select": {
@@ -229,7 +229,7 @@
       },
       "spacing-gap": {
         "$type": "spacing",
-        "$value": "{global.space.16}"
+        "$value": "{global.space.8}"
       }
     },
     "textarea": {
@@ -313,6 +313,10 @@
       },
       "color": {
         "bg": {
+          "default": {
+            "$type": "color",
+            "$value": "{rd-semantic.color.background.neutral}"
+          },
           "hover": {
             "$type": "color",
             "$value": "{rd-semantic.color.background.brand.hover}"
@@ -327,8 +331,22 @@
           }
         },
         "icon": {
-          "$type": "color",
-          "$value": "{rd-semantic.color.icon.default}"
+          "default": {
+            "$type": "color",
+            "$value": "{rd-semantic.color.icon.default}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{rd-semantic.color.icon.on-brand}"
+          },
+          "active": {
+            "$type": "color",
+            "$value": "{rd-semantic.color.icon.on-brand}"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "{rd-semantic.color.icon.on-brand}"
+          }
         }
       },
       "border-radius": {

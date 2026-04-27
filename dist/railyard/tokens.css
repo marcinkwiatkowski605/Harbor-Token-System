@@ -209,7 +209,7 @@
   --railyard-rd-component-button-spacing-inline-lg: 16px;
   --railyard-rd-component-button-spacing-inline-md: 16px;
   --railyard-rd-component-button-spacing-inline-sm: 12px;
-  --railyard-rd-component-button-spacing-gap: 16px;
+  --railyard-rd-component-button-spacing-gap: 8px;
   --railyard-rd-component-input-border-radius: 0;
   --railyard-rd-component-input-opacity-disabled: 0.5;
   --railyard-rd-component-input-color-bg: #ffffff;
@@ -223,7 +223,7 @@
   --railyard-rd-component-input-icon-sizing-square: 20px;
   --railyard-rd-component-input-sizing-border: 1px;
   --railyard-rd-component-input-spacing-inline: 16px;
-  --railyard-rd-component-input-spacing-gap: 16px;
+  --railyard-rd-component-input-spacing-gap: 8px;
   --railyard-rd-component-select-sizing-height: 48px;
   --railyard-rd-component-select-icon-sizing-square: 20px;
   --railyard-rd-component-select-color-bg: #ffffff;
@@ -238,7 +238,7 @@
   --railyard-rd-component-select-opacity-disabled: 0.5;
   --railyard-rd-component-select-spacing-inline-start: 16px;
   --railyard-rd-component-select-spacing-inline-end: 16px;
-  --railyard-rd-component-select-spacing-gap: 16px;
+  --railyard-rd-component-select-spacing-gap: 8px;
   --railyard-rd-component-textarea-color-bg: #ffffff;
   --railyard-rd-component-textarea-color-border-default: #8c8f97;
   --railyard-rd-component-textarea-color-border-active: #6b6e76;
@@ -255,10 +255,14 @@
   --railyard-rd-component-icon-button-sizing-square-md: 40px;
   --railyard-rd-component-icon-button-sizing-square-sm: 32px;
   --railyard-rd-component-icon-button-icon-sizing-square: 20px;
+  --railyard-rd-component-icon-button-color-bg-default: #ffffff;
   --railyard-rd-component-icon-button-color-bg-hover: #7934db;
   --railyard-rd-component-icon-button-color-bg-active: #5f29ac;
   --railyard-rd-component-icon-button-color-bg-selected: #5f29ac;
-  --railyard-rd-component-icon-button-color-icon: #6b6e76;
+  --railyard-rd-component-icon-button-color-icon-default: #6b6e76;
+  --railyard-rd-component-icon-button-color-icon-hover: #f2eafd;
+  --railyard-rd-component-icon-button-color-icon-active: #f2eafd;
+  --railyard-rd-component-icon-button-color-icon-selected: #f2eafd;
   --railyard-rd-component-icon-button-border-radius-lg: 0;
   --railyard-rd-component-icon-button-border-radius-md: 0;
   --railyard-rd-component-icon-button-border-radius-sm: 0;
