@@ -26,6 +26,8 @@ dist/                      Generated output (per brand)
 
 sd.config.js               Style Dictionary configuration
 tokens.json                Tokens Studio GitHub sync backup
+tokens_visualizer/
+  preview.html             Standalone token visualizer (open in browser)
 ```
 
 ## Tech stack
